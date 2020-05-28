@@ -7,6 +7,7 @@ import { Observable } from  'rxjs';
   providedIn: 'root'
 })
 export class ApiService {
+//THIS IP IT IS GENERATE BY APACHE-PHP CONTAINER	
   PHP_API_SERVER = "http://172.18.0.3:80";
   constructor(private httpClient: HttpClient) { }
 
