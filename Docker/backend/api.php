@@ -3,7 +3,7 @@
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Methods: PUT, GET, POST");
 header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
-
+//CONFIG WITH THE IP AND USER OF MYSQL CONTAINER
 $localhost = "172.18.0.2"; 
 $username = "root"; 
 $password = "root"; 
