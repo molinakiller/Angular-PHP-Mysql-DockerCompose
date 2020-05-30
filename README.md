@@ -1,8 +1,6 @@
-Angular-PHP-Mysql-DockerCompose
+# ==This project has been developed on **Ubuntu 18**==
 
 CRUD with PHP-Mysql inside of Docker Compose as backend and Angular 9 as frontend.
-
-# ==This project has been developed on **Ubuntu 18**==
 
 # ==This project has been developed with this **Versions**== 
 
