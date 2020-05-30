@@ -13,7 +13,7 @@ CRUD with PHP-Mysql inside of Docker Compose as backend and Angular 9 as fronten
 - **Node version: 12.16.3**
 
 
-This project can be run by **any** operative system becouse it use Docker.
+This project can be run by **any** operative system because it use Docker.
 
 #       ==REQUIREMENTS==
 
@@ -25,7 +25,7 @@ This project can be run by **any** operative system becouse it use Docker.
 
 4. Install Mysql-client 5.6
 
-5. Check the environment config on:
+5. Check the environment config in:
 
 - PHP_API_SERVER IP CONTAINER = [SHOW CONF](https://github.com/molinakiller/Angular-PHP-Mysql-DockerCompose/blob/master/Angular/src/app/api.service.ts)
 
@@ -39,7 +39,7 @@ This project can be run by **any** operative system becouse it use Docker.
 
 # ==RUN==
 
-**RAISE APACHE-PHP AND MYSQL-SERVER SERVER WITH DOCKERCOMPOSE**
+**START APACHE-PHP AND MYSQL-SERVER SERVER BACKEND WITH DOCKERCOMPOSE**
 
 $cd Angular-PHP-Mysql-DockerCompose
 
@@ -59,7 +59,7 @@ mysql->create table policies( id int not null auto_increment, number varchar(20)
 
 mysql->exit;
 
-**RAISE ANGULAR FRONTEND**
+**START ANGULAR FRONTEND**
 
 $cd Angular
 
