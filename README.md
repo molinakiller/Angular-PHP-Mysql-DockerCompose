@@ -19,9 +19,9 @@ This project can be run by **any** operative system because it use Docker.
 
 1. Any operative system with **GUI**
 
-2. Install **Docker** and **Docker-compose** = [SHOW HOW] readmedocker
+2. Install **Docker** and **Docker-compose** = [SHOW HOW](https://github.com/molinakiller/Angular-PHP-Mysql-DockerCompose/blob/master/Docker/readme.MD)
 
-3. Install **node.js** and **Angular/Cli** = [SHOW HOW] readmeangular
+3. Install **node.js** and **Angular/Cli** = [SHOW HOW](https://github.com/molinakiller/Angular-PHP-Mysql-DockerCompose/blob/master/README.md)
 
 4. Install Mysql-client 5.6
 
